@@ -1,0 +1,3 @@
+high-risk/sample_001 0
+low-risk/sample_002 1
+normal/sample_003 2
